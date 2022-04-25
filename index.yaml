@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  xgnginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-25T22:31:26.134909+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 6ad043542733452e0be92f4933d88c7ce225536ae033dfe8a93452adbae57c43
+    name: xgnginx
+    type: application
+    urls:
+    - http://192.168.31.220/charts/xgnginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-25T22:31:26.133896+08:00"
